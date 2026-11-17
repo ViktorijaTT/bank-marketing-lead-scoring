@@ -1,0 +1,9 @@
+# Packages imported by the notebooks (minimum versions; newer versions should work)
+numpy>=1.24
+pandas>=2.0
+matplotlib>=3.7
+scipy>=1.10
+statsmodels>=0.14
+scikit-learn>=1.3
+# Not imported by the code, but needed so VS Code can run the notebooks
+ipykernel>=6.0
